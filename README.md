@@ -1,4 +1,4 @@
- Classic Car Models Project
+ Vehicles Sales Project
 
  Project Overview
 This project analyzes a dataset of classic and electric vehicles to explore trends, features, and characteristics of different car models. The goal is to extract meaningful insights about classic cars, alternative fuel vehicles, and electric vehicles across countries, states, and cities.
